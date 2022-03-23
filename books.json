@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":"Une si longue lettre",
+        "author": "Mariama Ba",
+        "description": "Une si longue lettre est le premier roman de l'écrivaine sénégalaise Mariama Bâ publié pour la première fois en 1979. Écrit en français, l'ouvrage prend la forme d'un roman épistolaire où Ramatoulaye Fall raconte à Aïssatou, son amie de longue date, son veuvage et sa vie de femme et de mère.",
+        "categorie": "Roman",
+        "dateDeSortie": "1979",
+        "maisonDedition": "Nouvelles editions africaines",
+        "quantityInStock": "2"
+    },
+    {
+        "id": 2,
+        "name":"Chambre 7",
+        "author": "Faty Dieng",
+        "description": "A 27 ans, Khady Myriam, une journaliste très influente est condamnée à une longue peine d'emprisonnement. Elle passe 10 années en prison où elle rencontre Nogaye qui devient son pilier. Khady se confie à sa codétenue qui l'aide à tenir debout dans ce milieu carcéral où chaque femme traine un lourd fardeau.",
+        "categorie": "Roman",
+        "dateDeSortie": "2019",
+        "maisonDedition": "Harmattan",
+        "quantityInStock": "5"
+    },
+    {
+        "id": 3,
+        "name":"Debuter en informatique pour les nuls",
+        "author": "Andy Rathbone",
+        "description": "Un nouveau matériel ou un nouveau logiciel vient de débarquer dans votre vie et vous n'avez pas de temps à perdre pour en apprendre l'utilisation. Deux solutions s'offrent à vous, attendre un miracle, solution peu probable, ou faire confiance à votre Mégapoche qui vous donnera toutes les informations essentielles pour démarrer un apprentissage efficace dans la joie et la bonne humeur ! Vous venez de faire l'acquisition d'un PC ou vous souhaitez le faire, alors n'hésitez pas, prenez ce livre, il est pour vous. La première partie est consacrée à la description matérielle de l'ordinateur : vous découvrirez les entrailles de la bête et comment fonctionnent ses périphériques. La seconde partie est consacrée au cœur du PC : Windows XP. La troisième partie vous fera partir pour une croisière à la découverte du monde merveilleux d'Internet.",
+        "categorie": "Informatique",
+        "dateDeSortie": "2005",
+        "maisonDedition": "Editions First",
+        "quantityInStock": "3"
+    },
+    {
+        "id": 4,
+        "name":"L'enfant Noir",
+        "author": "Camara Laye",
+        "description": "L’Enfant noir est le premier roman de Camara Laye, publié à Paris en 1953. Considérée comme « l'un des textes fondateurs de la littérature africaine contemporaine », cette œuvre largement autobiographique a reçu le prix Charles Veillon 1954 et inspiré en 1995 un film du même nom, réalisé par Laurent Chevallier.",
+        "categorie": "Roman",
+        "dateDeSortie": "1953",
+        "maisonDedition": "Plon",
+        "quantityInStock": "5"
+    },
+    {
+        "id": 5,
+        "name":"Allah n'est pas obligé",
+        "author": "Ousmane Sembene",
+        "description": "Allah n'est pas obligé est un roman d'Ahmadou Kourouma publié le 12 août 2000 aux éditions du Seuil et ayant reçu le prix Renaudot la même année. Le livre reçoit également le prix Goncourt des Lycéens et le prix Amerigo-Vespucci.",
+        "categorie": "Fiction",
+        "dateDeSortie": "2000",
+        "maisonDedition": "Cadre Rouge",
+        "quantityInStock": "1"
+    }
+]
