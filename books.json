@@ -7,7 +7,7 @@
         "categorie": "Roman",
         "dateDeSortie": "1979",
         "maisonDedition": "Nouvelles editions africaines",
-        "quantityInStock": "2"
+        "quantityInStock": 2
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "categorie": "Roman",
         "dateDeSortie": "2019",
         "maisonDedition": "Harmattan",
-        "quantityInStock": "5"
+        "quantityInStock": 5
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "categorie": "Informatique",
         "dateDeSortie": "2005",
         "maisonDedition": "Editions First",
-        "quantityInStock": "3"
+        "quantityInStock": 3
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "categorie": "Roman",
         "dateDeSortie": "1953",
         "maisonDedition": "Plon",
-        "quantityInStock": "5"
+        "quantityInStock": 5
     },
     {
         "id": 5,
@@ -47,6 +47,6 @@
         "categorie": "Fiction",
         "dateDeSortie": "2000",
         "maisonDedition": "Cadre Rouge",
-        "quantityInStock": "1"
+        "quantityInStock": 0
     }
 ]
